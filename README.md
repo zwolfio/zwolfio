@@ -18,11 +18,6 @@
 
 ---
 
-
-
-
----
-
 ### 🔧 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
@@ -35,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
