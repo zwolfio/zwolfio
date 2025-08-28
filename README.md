@@ -1,3 +1,64 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+zwolfio;Welcome+to+my+GitHub+space!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🚀 I'm a code enthusiast who loves building cool things with code
+- 🧰 I like working with GitHub, automation, and creative scripts
+- 🎯 My goal: contribute meaningfully and have fun coding!
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zwolfio&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zwolfio"><img src="https://img.shields.io/badge/GitHub-zwolfio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧙 Quote of the Day
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## ✨ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zwolfio&label=Profile+views&color=blueviolet&style=flat" />
+</p>
+
+
 # Hi there 👋, I'm Rio Irawan!
 
 🎯 I’m a Frontend & Fullstack Developer, passionate about  Web Development, Data Science, and Automation System
