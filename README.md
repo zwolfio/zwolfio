@@ -13,28 +13,7 @@
 - 🚀 I'm a code enthusiast who loves building cool things with code
 - 🧰 I like working with GitHub, automation, and creative scripts
 - 🎯 My goal: contribute meaningfully and have fun coding!
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zwolfio&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
-</p>
-
+- 
 ---
 
 ## 🌐 Connect With Me
@@ -51,13 +30,6 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
-## ✨ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zwolfio&label=Profile+views&color=blueviolet&style=flat" />
-</p>
-
 
 # Hi there 👋, I'm Rio Irawan!
 
@@ -100,5 +72,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 <!-- Tambahkan media sosial lainnya -->
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
+</p>
 ---
