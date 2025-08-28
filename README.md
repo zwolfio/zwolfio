@@ -12,12 +12,12 @@
 - 🎯 My goal: contribute meaningfully and have fun coding!
 
 
-## 🧙 Quote of the Day
+#### 🧙 Quote of the Day
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight)
 
@@ -34,12 +34,12 @@
 
 
 
-### ✨ Featured Projects
+## ✨ Featured Projects
 - 🔗 [Project 1](https://github.com/yourusername/project-1) – Deskripsi singkat
 - 🔗 [Project 2](https://github.com/yourusername/project-2) – Deskripsi singkat
 <!-- Tambahkan beberapa project unggulan -->
 
-### 🤝 Let's Connect!
+#### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
