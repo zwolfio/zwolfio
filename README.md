@@ -30,9 +30,9 @@
 
 
 
-## ✨ Featured Projects
+<!--## ✨ Featured Projects
 - 🔗 [Project 1](https://github.com/yourusername/project-1) – Deskripsi singkat
-- 🔗 [Project 2](https://github.com/yourusername/project-2) – Deskripsi singkat
+- 🔗 [Project 2](https://github.com/yourusername/project-2) – Deskripsi singkat -->
 <!-- Tambahkan beberapa project unggulan -->
 
 #### 🤝 Let's Connect!
