@@ -18,18 +18,37 @@
 
 ---
 
-<h3>🔧 Tech Stack</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-</p>
+  <div style="flex: 1; min-width: 300px; margin-right: 10px;">
+    <h3>🔧 Tech Stack</h3>
+    <p>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" />
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" />
+    </p>
+    <p>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
+    </p>
+  </div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
-</p>
+  <div style="flex: 1; min-width: 300px;">
+    <h3>📊 GitHub Stats</h3>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&theme=tokyonight&hide_border=true" />
+    </p>
+    <p>
+      <img src="https://streak-stats.demolab.com?user=zwolfio&theme=tokyonight&hide_border=true" />
+    </p>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight&hide_border=true" />
+    </p>
+  </div>
 
+</div>
 
 
 ---
