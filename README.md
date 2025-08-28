@@ -34,8 +34,6 @@
 
 
 
----
-
 ### ✨ Featured Projects
 - 🔗 [Project 1](https://github.com/yourusername/project-1) – Deskripsi singkat
 - 🔗 [Project 2](https://github.com/yourusername/project-2) – Deskripsi singkat
@@ -46,5 +44,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 <!-- Tambahkan media sosial lainnya -->
-
----
