@@ -1,3 +1,9 @@
+# Hi there 👋, I'm Rio Irawan!
+🎯 I’m a Frontend & Fullstack Developer, passionate about  Web Development, Data Science, and Automation System
+🛠️ Currently working with: React, Node.js, Python, Vue js, Laravel, etc 
+🌱 Learning: GoLang 
+📫 How to reach me: Rioirawan12.86@gmail.com
+💡 Fun Fact: I love coffee and coding at 2 AM ☕💻
 
 ## 🧠 About Me
 
@@ -12,13 +18,8 @@
 
 ---
 
-# Hi there 👋, I'm Rio Irawan!
 
-🎯 I’m a Frontend & Fullstack Developer, passionate about  Web Development, Data Science, and Automation System
-🛠️ Currently working with: React, Node.js, Python, Vue js, Laravel, etc 
-🌱 Learning: GoLang 
-📫 How to reach me: Rioirawan12.86@gmail.com
-💡 Fun Fact: I love coffee and coding at 2 AM ☕💻
+
 
 ---
 
