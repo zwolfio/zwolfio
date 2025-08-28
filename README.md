@@ -22,7 +22,7 @@
   <tr>
     <td width="50%" valign="top">
 
-      ### 🔧 Tech Stack
+      <h3>🔧 Tech Stack</h3>
 
       <p>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
@@ -40,7 +40,7 @@
     </td>
     <td width="50%" valign="top">
 
-      ### 📊 GitHub Stats
+      <h3>📊 GitHub Stats</h3>
 
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight" />
@@ -53,6 +53,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
