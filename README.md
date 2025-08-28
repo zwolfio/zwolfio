@@ -38,12 +38,6 @@
   <div style="flex: 1; min-width: 300px;">
     <h3>📊 GitHub Stats</h3>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&theme=tokyonight&hide_border=true" />
-    </p>
-    <p>
-      <img src="https://streak-stats.demolab.com?user=zwolfio&theme=tokyonight&hide_border=true" />
-    </p>
-    <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight&hide_border=true" />
     </p>
   </div>
