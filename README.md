@@ -33,6 +33,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -40,6 +41,10 @@
 ![zwolfio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zwolfio&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zwolfio&theme=react-dark&hide_border=true)
 
 ---
 
