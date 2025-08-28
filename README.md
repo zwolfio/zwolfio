@@ -17,7 +17,7 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
-#### 📊 GitHub Stats
+## 📊 TechStack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight)
 
