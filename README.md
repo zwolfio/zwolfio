@@ -38,13 +38,8 @@
 
 ### 📊 GitHub Stats
 
-![zwolfio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=0)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zwolfio&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-[![Zwolfio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zwolfio)](https://github.com/zwolfio/github-readme-activity-graph)
 ---
 
 ### ✨ Featured Projects
