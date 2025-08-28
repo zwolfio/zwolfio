@@ -1,10 +1,10 @@
-# Hi there 👋, I'm [Nama Kamu]!
+# Hi there 👋, I'm Rio Irawan!
 
-🎯 I’m a [Your Role] passionate about [Your Interest: e.g. Web Development, Data Science, Open Source]  
-🛠️ Currently working with: [Tech Stack: e.g. React, Node.js, Python]  
-🌱 Learning: [Tech you're learning now]  
-📫 How to reach me: [Your Email or Social Media]  
-💡 Fun Fact: [Optional – e.g. I love coffee and coding at 2 AM ☕💻]
+🎯 I’m a Frontend & Fullstack Developer, passionate about  Web Development, Data Science, and Automation System
+🛠️ Currently working with: React, Node.js, Python, Vue js, Laravel, etc 
+🌱 Learning: GoLang 
+📫 How to reach me: Rioirawan12.86@gmail.com
+💡 Fun Fact: I love coffee and coding at 2 AM ☕💻
 
 ---
 
