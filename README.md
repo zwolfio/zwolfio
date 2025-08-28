@@ -30,7 +30,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 <!-- Tambahkan sesuai stack kamu -->
-
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
+</p>
 ---
 
 ### 📊 GitHub Stats
@@ -53,7 +55,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 <!-- Tambahkan media sosial lainnya -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,bash,html,css,nodejs,git,github,vscode&theme=dark" />
-</p>
+
 ---
