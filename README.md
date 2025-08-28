@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&hide_border=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&hide_border=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=zwolfio&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight)
 
