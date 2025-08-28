@@ -10,13 +10,13 @@
 - 🚀 I'm a code enthusiast who loves building cool things with code
 - 🧰 I like working with GitHub, automation, and creative scripts
 - 🎯 My goal: contribute meaningfully and have fun coding!
----
+
 
 ## 🧙 Quote of the Day
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
----
+
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwolfio&layout=compact&theme=tokyonight)
@@ -40,8 +40,6 @@
 - 🔗 [Project 1](https://github.com/yourusername/project-1) – Deskripsi singkat
 - 🔗 [Project 2](https://github.com/yourusername/project-2) – Deskripsi singkat
 <!-- Tambahkan beberapa project unggulan -->
-
----
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
